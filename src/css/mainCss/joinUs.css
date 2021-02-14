@@ -1,0 +1,11 @@
+#background_join {
+    background-color:lightgray;
+    padding-top: 3%;
+    padding-bottom: 3%;
+}
+
+#joinUsLabel {
+    font-weight:bold;
+    color: darkslategrey;
+    font-size: 40px;
+}

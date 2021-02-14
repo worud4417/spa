@@ -1,0 +1,10 @@
+#login{
+    padding-left: 40%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    background-color:whitesmoke;
+}
+
+#loginButton:hover{
+    color:white;
+}

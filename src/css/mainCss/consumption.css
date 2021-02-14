@@ -1,0 +1,22 @@
+#consumptionLabel {
+    font-weight:bold;
+    color: darkslategrey;
+    font-size: 30px;
+}
+
+#background_con {
+    background-color:lightgray;
+    padding-top: 3%;
+    padding-bottom: 3%;
+}
+
+#dataPicker {
+    border: lightgray solid 1px;
+    padding: 3%;
+    font-weight: bold;
+}
+
+#list{
+    margin-left: 12%;
+    margin-right: 8%;
+}
